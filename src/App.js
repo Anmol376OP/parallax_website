@@ -27,7 +27,7 @@ function App() {
         <ParallaxLayer offset={0} speed={0.6}>
           <div className='layer plx' id="plant"></div>
         </ParallaxLayer>
-        <ParallaxLayer offset={0} speed={0.35}>
+        <ParallaxLayer offset={0} speed={0.34}>
           <div className='layer plx' id="tree"></div>
         </ParallaxLayer>
         <ParallaxLayer offset={1} speed={0.2}>
